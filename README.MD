@@ -17,7 +17,7 @@ cd ../
 2. run the MD simulation
 
 ##lbg job submit command is used in bohrium, because we run our MD in https://www.bohrium.com/, for user run in usual linux system,
-##can change this line into "nohup bash  gromac2.sh&"
+can change this line into "nohup bash  gromac2.sh&"
 
 bash run_all_files.bash    
 
@@ -34,8 +34,7 @@ cd MD_complex_li_antibody_static_sel_add_meta
 cd meta_file
 
 ##lbg job submit command is used in bohrium, because we run our MD in https://www.bohrium.com/, for user run in usual linux system,
-
-##can change this line into "nohup bash gromac_meta.bash&"
+can change this line into "nohup bash gromac_meta.bash&"
 
 bash run_all.bash
 
