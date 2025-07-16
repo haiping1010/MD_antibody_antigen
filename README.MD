@@ -1,5 +1,9 @@
 # This is the MD and metadynamics part script examples of paper "Significantly Enhancing Human Antibody Affinity via Deep Learning and Computational Biology-Guided Single-Point Mutations".
 
+# prerequisite
+Install gromacs with Plumed
+
+
 # MD simulaton
 1. prepare the initial complexes for MD simulation.
 cd MD_complex_li_antibody_static_sel
@@ -40,4 +44,4 @@ bash run_all.bash
 
 
 
-Detailed information can contact zhanghaiping@suat-sz.edu.cn
+For more detailed information or encounted issues can contact zhanghaiping@suat-sz.edu.cn
