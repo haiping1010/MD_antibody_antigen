@@ -1,0 +1,11 @@
+{
+    "job_name": "bohrium-gmx-example",
+    "command": "bash  gromac2.sh > log",
+    "log_file": "log",
+    "backward_files": [],
+    "project_id": 16322,
+    "image_address": "registry.dp.tech/dptech/prod-14782/gromacs:2022-plumed2.8.1",
+    "machine_type": "c8_m31_1 * NVIDIA T4",
+    "platform": "ali",
+    "job_type": "container"
+}

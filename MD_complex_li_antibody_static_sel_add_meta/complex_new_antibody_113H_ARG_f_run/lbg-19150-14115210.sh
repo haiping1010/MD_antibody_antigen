@@ -1,0 +1,1 @@
+bash  gromac2.sh > log

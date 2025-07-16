@@ -1,0 +1,6 @@
+  File "locate_pep.py", line 17
+    print container[-1].replace(" ","")
+          ^
+SyntaxError: invalid syntax
+-3244-
+gromac_meta.bash: line 22: gmx: command not found
